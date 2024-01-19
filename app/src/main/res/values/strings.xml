@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">lab02</string>
+    <string name="A">A:</string>
+    <string name="B">B:</string>
+    <string name="Result">Result:</string>
+    <string name="Tch">...</string>
+    <string name="nl">0</string>
+    <string name="Add">+</string>
+    <string name="Sub">-</string>
+    <string name="Mult">*</string>
+    <string name="Div">/</string>
+    <string name="Sin">Sin</string>
+    <string name="Cos">Cos</string>
+    <string name="Tan">Tan</string>
+    <string name="Sqrt">√</string>
+    <string name="Pow">^</string>
+</resources>
